@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+#style {
+text-align: center;
+font-size: 10px;
+font-weight: bolder;
+
+}
+#style2{
+  text-align: center;
+  color: white;
+  position: fixed;
+  font-size: 50px;
+  font-weight: bolder;
+}
+#style3{
+  color:white;
+  font-family: Arial, Verdana;
+  font-weight: 30;
+}
+div {
+  height: 200px;
+  width: 400px;
+  background: turquoise;
+  font-family: Arial, Verdana;
+  
+  
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
+}
+#boxed{
+  
+  text-align: center;
+  font-size: x-small;
+  width: 100px;
+  
+
+
+  
+  border: 1px solid white;
+  color:white;
+  
+}
+#center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: Arial, Verdana;
+  font-size: 10px;
+  width: 110px;
+  
+  
+
+
+  
+  border: 1px solid white;
+  color:white;
+}
