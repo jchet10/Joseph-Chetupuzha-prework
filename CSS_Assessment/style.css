@@ -1,0 +1,48 @@
+
+#boxed{
+    text-align: center;
+    color: black;
+    background: #5ca08e;
+    border: 1px solid #5ca08e ;
+}
+#bottom{
+    text-align:center;
+    color: black;
+    background: green;
+    border: 1px solid green ;
+    
+    position: absolute; 
+    bottom:0;
+    
+    width: 100%; 
+   
+}
+#space{
+    text-align: center;
+    color:white;
+    background: white;
+    border: 1px solid white ;
+    
+}
+#left{
+    background: blue;
+    border: 1px solid blue;
+    position: absolute;
+    left:0;
+    width: 50%;
+    height:60%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#right{
+    background: red;
+    border: 1px solid red;
+    position: absolute;
+    right:0;
+    width: 25%;
+    height:60%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
