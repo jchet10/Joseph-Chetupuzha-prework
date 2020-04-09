@@ -1,0 +1,138 @@
+#fontada{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:#4aaaa5;
+    background-color: white;
+   
+   
+
+}
+
+#boxed{
+    
+    background-color: white;
+   
+   
+
+}
+#about{
+    background-color: white;
+    font-size: medium;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:#4aaaa5;
+    position:relative;
+    right:-931px;
+    top:-.5px;
+}
+#portfolio{
+    background-color: white;
+    font-size: medium;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:#4aaaa5;
+    position:absolute;
+    right:350px;
+    top:16px;
+}
+#contact{
+    background-color: white;
+    font-size: medium;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:#4aaaa5;
+    position:absolute;
+    right:270px;
+    top:16px;
+}
+#border1{
+    position:absolute;
+    color:white;
+    right:439px;
+    top:27px;
+   
+    border-right: .5px solid #4aaaa5;
+}
+#border2{
+    position:absolute;
+    color:white;
+    right:350px;
+    top:27px;
+    
+    border-right: 1px solid #4aaaa5;
+ 
+
+
+}
+
+#jumbotron{
+    border-color: #dddddd;
+    background-color: #ffffff;
+    border-radius: 0;
+    width:960px;
+    position: absolute;
+    top:100px;
+    left: 200px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+#b1{
+    background-color: white;
+    position:absolute;
+    left:0px;
+    
+    border-bottom: 1px solid #cccccc;
+    width: 1440px;
+    margin: auto;
+    padding-bottom: 40px;
+   
+    
+
+}
+#border{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 25px;
+    font-weight:bolder;
+    
+    font-size:large;
+    color:white;
+    border: 1px solid #4aaaa5;
+    background-color: #4aaaa5;
+    display: inline-block;
+    position:absolute;
+    left:200px;
+    top:-30px;
+    
+}
+#header{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-weight: bolder;
+    font-size: larger;
+}
+#body{
+    font-size: small;
+}
+#experiment{
+    position:absolute;
+
+    background-color: white;
+    width:1440px;
+    height:50px;
+
+}
+#footer{
+    background-color: #666666;
+    color:white;
+    line-height:40px;
+    position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;
+   border-top: 10px solid #4aaaa5;
+}
+#inputsize{
+    padding:100px 50px;
+}
+#button{
+    background-color: #4aaaa5;
+    border-color:#4aaaa5 ;
+    border-radius: 0px;
+}
+
