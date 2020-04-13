@@ -1,0 +1,53 @@
+#title {
+    font-size:50px;
+position:absolute;
+left:400px;
+color:white;
+
+ 
+}
+#start{
+    position:absolute;
+    left:450px;
+    bottom:500px;
+    font-size:50px;
+    color:white;
+}
+#wins{
+    position:absolute;
+    left:450px;
+    bottom:400px;
+    font-size:25px;
+    color:white;
+}
+#underscore{
+    position:absolute;
+    left:500px;
+    bottom:100px;
+    
+    font-size:100px;
+    text-align:center;
+    color:white;
+  
+ 
+}
+#guesses{
+    position:absolute;
+    left:450px;
+    bottom:300px;
+    font-size:25px;
+    color:white;
+}
+#letterguesses{
+    position:absolute;
+    left:450px;
+    bottom:50px;
+    font-size:25px;
+    color:white;
+}
+
+img.one{
+    height: 25%;
+  width: 25%;
+
+}
