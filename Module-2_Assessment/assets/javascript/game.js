@@ -13,7 +13,7 @@ var letterGuesses=document.getElementById("letterguesses")
 //choosing random word
 
 underscore.innerText='_ '.repeat(word.length);
-var numberOfGuessesRemaining=13;
+var numberOfGuessesRemaining=10;
 
 var lettersGuessed=new Array();
 var counter=0
@@ -76,11 +76,13 @@ const reset =function(numOfWins) {
     underscore.innerText='_ '.repeat(word.length);
     randomNumber=Math.floor(Math.random()*listOfWords.length);
     word=listOfWords[randomNumber];
-    numberOfGuessesRemaining= 13;
+    numberOfGuessesRemaining= 10;
     guesses.innerText='Number of Guesses Remaining: ' +numberOfGuessesRemaining;
     numberOfWins=numOfWins;
+    lettersGuessed=[];
     underscore.innerText='_ '.repeat(word.length);
     letterGuesses.innerText='Letters Guessed: ';
+    counter=0;
 }
 
 
