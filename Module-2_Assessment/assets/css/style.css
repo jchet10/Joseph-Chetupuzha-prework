@@ -1,9 +1,12 @@
 #title {
     font-size:50px;
 position:absolute;
-left:400px;
+left:420px;
 color:white;
-
+padding: 10px;
+border: 2px solid red;
+background-color: red;
+font-family:Arial, Helvetica, sans-serif;
  
 }
 #start{
@@ -19,6 +22,8 @@ color:white;
     bottom:400px;
     font-size:25px;
     color:white;
+
+    
 }
 #underscore{
     position:absolute;
@@ -51,3 +56,11 @@ img.one{
   width: 25%;
 
 }
+img.two{
+    position:absolute;
+    right:0;
+    height: 40%;
+    width: 25%;
+    
+}
+
